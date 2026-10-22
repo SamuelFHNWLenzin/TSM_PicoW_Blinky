@@ -6,3 +6,10 @@ Fixes:
 
 Features:
  - Initial version of application
+
+## v0.0.4
+Fixes:
+ - None
+
+Features:
+ - Increasing the release Tag
